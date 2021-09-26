@@ -2,7 +2,7 @@
 
 
 A complex number contains a real and imaginary part eg (1 +3i)
-A Super complex number contains a real and two imaginary part eg ( 1 +3i +6i )
+A Super complex number contains one real and two imaginary parts eg ( 1 +3i +6i )
 
 This program will allow the user to enter in two complex/supercomplex number to do an arithmetic operation on.  
 Currently only the code for addition and subtraction operations have been completed you can add the multiplication and division operstions for full functionality.  
